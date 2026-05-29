@@ -1,5 +1,19 @@
 # Change Log
 
+## 6.18.0
+
+### Minor Changes
+
+- [#14798](https://github.com/aws-amplify/amplify-js/pull/14798) [`5297398`](https://github.com/aws-amplify/amplify-js/commit/52973988551378d24adb585a1c3aace4632a38d6) Thanks [@osama-rizk](https://github.com/osama-rizk)! - refactor(storage): internal `uploadData` API refactoring for architectural consistency.
+
+### Patch Changes
+
+- Updated dependencies [[`51a50b1`](https://github.com/aws-amplify/amplify-js/commit/51a50b11e2cc436cb06d59df7ba87119f34bf425), [`5297398`](https://github.com/aws-amplify/amplify-js/commit/52973988551378d24adb585a1c3aace4632a38d6)]:
+  - @aws-amplify/core@6.16.4
+  - @aws-amplify/storage@6.16.0
+  - @aws-amplify/api@6.3.27
+  - @aws-amplify/datastore@5.1.8
+
 ## 6.17.0
 
 ### Minor Changes
